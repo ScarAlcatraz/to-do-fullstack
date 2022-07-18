@@ -1,0 +1,12 @@
+.TodoList-container {
+  background-color: #caf0f8;
+  width: 56vw;
+  height: 85vh;
+  border-radius: 10px;
+  .TodoList-wrapper {
+    padding: 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+}
