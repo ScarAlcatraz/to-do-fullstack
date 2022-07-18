@@ -1,14 +1,14 @@
 {
-  "name": "exp",
+  "name": "to-do-fullstack",
   "version": "1.0.0",
-  "description": "Experimentation.",
+  "description": "A fullstack To-Do web application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "CrazyDog",
+  "author": "ScarAlcatraz",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
